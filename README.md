@@ -1,10 +1,12 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" width="100%" alt="Rejwana Tabassum GitHub Profile">
-  </picture>
 </p>
+
+
+
+<p align="center">
+  <img src="./dark.svg#gh-dark-mode-only" width="100%" alt="Rejwana Tabassum">
+  <img src="./light.svg#gh-light-mode-only" width="100%" alt="Rejwana Tabassum">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Rejwana Tabassum</h1>
 
