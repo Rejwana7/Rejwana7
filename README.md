@@ -4,17 +4,6 @@
 
 
 
-
-<p align="center">
-  <a href="https://github.com/Rejwana7">GitHub</a>
-  •
-  <a href="https://linkedin.com/in/rejwana-tabassum-22480a250">LinkedIn</a>
-  •
-  <a href="mailto:rejwanatabassum87871@gmail.com">Email</a>
-</p>
-
----
-
 ## 👩‍💻 About Me
 
 Computer Science graduate with hands-on, project-based experience across the Software Quality Assurance lifecycle, including manual testing, API testing, automation, bug reporting, and backend development.
