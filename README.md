@@ -3,11 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Rejwana Tabassum</h1>
 
-<p align="center">
-  <strong>Computer Science Graduate • SQA • API Testing • Backend Development</strong>
-</p>
 
 <p align="center">
   <a href="https://github.com/Rejwana7">GitHub</a>
