@@ -1,10 +1,7 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./light.svg" width="100%" alt="Rejwana Tabassum GitHub Profile">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rejwana7/Rejwana7/main/dark.svg">
+  <img src="https://raw.githubusercontent.com/Rejwana7/Rejwana7/main/light.svg" width="100%" alt="Rejwana Tabassum GitHub Profile">
+</picture>
 
 
 
